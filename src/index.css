@@ -1,0 +1,22 @@
+html, body, #root, #App{
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: Queensides;
+  src: url(../src/assets/Queensides-3z7Ey.ttf);
+}
+
+@font-face {
+  font-family: Loveseed;
+  src: url(../src/assets/LoveSeed-z8EVX.ttf);
+}
+
+.Queensides{
+  font-family: Queensides !important;
+}
+
+.Loveseed{
+  font-family: Loveseed !important;
+}
